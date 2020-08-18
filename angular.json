@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-fisrt-project"
+    }
+  },
+  "defaultProject": "my-fisrt-project",
+  "cli": {
+    "analytics": "1c3d2fbc-9e71-44ea-9d2f-a56c997b2bdd"
+  }
 }
